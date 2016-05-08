@@ -99,4 +99,5 @@ Manaranjan Pradhan is a big data & analytics enthusiast. He worked with TCS, HP
 He write blogs at: 
 
 *http://blog.enablecloud.com/*
+
 *http://www.awesomestats.in/*
