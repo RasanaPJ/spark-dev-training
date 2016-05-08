@@ -73,10 +73,10 @@ All the programming will be done using Python, hence the participants should hav
 * Hive & RDD Integrations
 * Working with different data formats: Structured and Unstructured
 * Hands On
-* Writing Spark Streaming Applications
 
-### Spark Streaming Overview
+###  Writing Spark Streaming Applications
 
+* Spark Streaming Overview
 * Understanding Streaming Operations
 * Sliding Window Operations
 * Developing Spark Streaming Applications
@@ -87,17 +87,17 @@ All the programming will be done using Python, hence the participants should hav
 * Understanding ML APIs
 * Applying Regression, Classification and Clustering APIs to real world use cases
 * Hands On
-* Optimizing and Tuning Spark Applications
+
+### Optimizing and Tuning Spark Applications
 
 ## Instructor Profile
 
 Manaranjan Pradhan is a big data & analytics enthusiast. He worked with TCS, HP and iGate patni for 15 years before deciding to quit and be a freelancer.  Now he teaches and consults on big data platforms like Hadoop, Spark and scalable machine learning.  He is an alumni of IIM Bangalore and currently also teaching and doing research projects at IIM Bangalore.
 
-*mail: manaranjan@enablecloud.com*
-*https https:// www.linkedin.com/in/manaranjanpradhan* 
+*mail: manaranjan@enablecloud.com*<br/>
+*https:// www.linkedin.com/in/manaranjanpradhan* 
 
 He write blogs at: 
 
-*http://blog.enablecloud.com/*
-
+*http://blog.enablecloud.com/*<br/>
 *http://www.awesomestats.in/*
